@@ -15,7 +15,7 @@ The repository includes SQL queries for various analyses, such as:
 ## How to Use
 1. Clone the repository.
 2. Access the SQL scripts for data analysis.
-3. Utilize the [dashboard]([insert-your-dashboard-link-here](https://public.tableau.com/shared/GXGTSSMJT?:display_count=n&:origin=viz_share_link)) for visual analysis.
+3. Utilize the [dashboard](https://public.tableau.com/shared/GXGTSSMJT?:display_count=n&:origin=viz_share_link) for visual analysis.
 4. Explore the Excel file for detailed data.
 ## Contributions
 Contributions are welcome! If you have improvements, additional analyses, or fixes, feel free to submit pull requests.    
